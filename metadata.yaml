@@ -1,0 +1,34 @@
+_repo: Mizora--A-ProphecyA-MSS.-Found-Among-the-Private-Papers-of-the-Princess-Vera-Zarovitch_24750
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lane, Mary E. Bradley
+    alias: Bradley, Mary E.
+    gutenberg_agent_id: '26713'
+    url: http://www.gutenberg.org/2009/agents/26713
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2008-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Feminist fiction'
+- !lcc 'PS'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Utopian fiction'
+title: 'Mizora: A Prophecy
+
+  A MSS. Found Among the Private Papers of the Princess Vera Zarovitch'
+url: http://www.gutenberg.org/ebooks/24750
